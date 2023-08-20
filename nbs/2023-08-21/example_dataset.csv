@@ -1,0 +1,6 @@
+Name,Age,Gender,Salary
+John,28,Male,60000
+Alice,,Female,55000
+Bob,32,Male,
+Eve,24,Female,70000
+Mike,,,75000
