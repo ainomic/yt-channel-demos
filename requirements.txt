@@ -4,3 +4,5 @@ ipykernel
 pandas
 numpy
 scikit-learn
+scipy
+matplotlib
